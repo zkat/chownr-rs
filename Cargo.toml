@@ -2,6 +2,10 @@
 name = "chownr"
 version = "0.1.0"
 authors = ["Kat Marchán <kzm@zkat.tech>"]
+description = "Recursive file ownership changer. Like chown -r."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/zkat/chownr-rs"
+homepage = "https://github.com/zkat/chownr-rs"
 edition = "2018"
 
 [dependencies]
